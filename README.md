@@ -62,7 +62,7 @@ Windows:
 c:\>pwdgenwin64 hello 123
 
 The generated password:  
-V!ND#3mor~%m`fa$!Jk>p5NZ#le*7oNA4~!`K5FBJ~E_W@`tj-pbP8K5jY7<]o1>hZf4vKOy}v=N-C``+b"c.p,aAnkR59pop(oz\xU~<hB;>~"gS.2cNTtX[;iENR7C
+V!ND#3mor~%m\`fa$!Jk>p5NZ#le\*7oNA4~!\`K5FBJ~E_W@`tj-pbP8K5jY7<]o1>hZf4vKOy}v=N-C``+b"c.p,aAnkR59pop(oz\xU~\<hB;\>~"gS.2cNTtX[;iENR7C
 
 ---
 
@@ -70,5 +70,14 @@ V!ND#3mor~%m`fa$!Jk>p5NZ#le*7oNA4~!`K5FBJ~E_W@`tj-pbP8K5jY7<]o1>hZf4vKOy}v=N-C``
 
 1. The code will output the generated password both in the terminal and in the clipboard for ease of copying.
 1. You can input a float instead of an integer in the number field.
+
+---
+
+## `Executables`
+
+If you cannot compile the code, you will find the archived executables in the executables folder:
+
+1. Debian-based distros: pwdgen.zip
+1. Win/amd64: pwdgenwin64.zip
 
 ---
